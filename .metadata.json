@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hacksaw",
+    "oncran": true
+  },
+  {
+    "package": "ViewPipeSteps",
+    "oncran": true
+  }
+]

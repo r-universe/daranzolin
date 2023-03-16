@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hacksaw"]
+	path = hacksaw
+	url = https://github.com/daranzolin/hacksaw
+	shallow = true
+	registered = true
+[submodule "ViewPipeSteps"]
+	path = ViewPipeSteps
+	url = https://github.com/daranzolin/viewpipesteps
+	shallow = true
+	registered = true
