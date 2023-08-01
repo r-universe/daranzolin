@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "hacksaw"]
-	path = hacksaw
-	url = https://github.com/daranzolin/hacksaw
 [submodule "ViewPipeSteps"]
 	path = ViewPipeSteps
 	url = https://github.com/daranzolin/viewpipesteps
+[submodule "hacksaw"]
+	path = hacksaw
+	url = https://github.com/daranzolin/hacksaw
