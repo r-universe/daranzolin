@@ -5,9 +5,6 @@
 [submodule "ViewPipeSteps"]
 	path = ViewPipeSteps
 	url = https://github.com/daranzolin/viewpipesteps
-[submodule "hacksaw"]
-	path = hacksaw
-	url = https://github.com/daranzolin/hacksaw
 [submodule "sqltargets"]
 	path = sqltargets
 	url = https://github.com/daranzolin/sqltargets
